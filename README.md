@@ -11,6 +11,7 @@
 ![Loss](https://github.com/Ruoyiran/DeepID/blob/master/images/Loss.png)
 ### Experiments
 Best val accuracy: 99.39%
+
 Best test accuracy: 97.05%
 ### How to run
 * Download YoutubeFaces
