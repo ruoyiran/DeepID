@@ -6,6 +6,9 @@
 @file: convert_images_to_tfrecords.py
 @time: 2018/6/2 14:04
 """
+import sys
+sys.path.append("../../src")
+
 import os
 import sys
 import numpy as np

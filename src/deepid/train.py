@@ -6,6 +6,9 @@
 @file: train.py
 @time: 2018/6/2 19:24
 """
+import sys
+sys.path.append("../../src")
+
 import glob
 import tensorflow as tf
 import logging

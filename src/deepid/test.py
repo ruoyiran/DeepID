@@ -6,8 +6,10 @@
 @file: test.py
 @time: 2018/6/3 1:02
 """
-import glob
+import sys
+sys.path.append("../../src")
 
+import glob
 import tensorflow as tf
 import numpy as np
 from scipy.spatial.distance import cosine
