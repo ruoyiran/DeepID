@@ -1,0 +1,7 @@
+.idea/
+data/
+model/train/
+model/val/
+*.tfrecord
+__pycache__/
+*.pyc
